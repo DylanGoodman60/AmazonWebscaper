@@ -1,0 +1,8 @@
+    Error handling on number of pages
+    Loop program for reuse
+    Fix $ amount to be just the money
+    Custom name of CSV file
+        -amazonResults.csv as default
+        -unless user inputs a name
+    Second version works with piping, takes executable parameters instead
+        of user input
